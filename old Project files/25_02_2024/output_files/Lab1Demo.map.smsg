@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at smiley_move.sv(79): always construct contains both blocking and non-blocking assignments File: C:/Quartus Lab Projects/Project/25_02_2024/RTL/VGA/smiley_move.sv Line: 79

@@ -1,0 +1,36 @@
+Quartus Prime Archive log --	C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/KBD_13_02_2024.qarlog
+
+Archive:	C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/KBD_13_02_2024.qar
+Date:		Tue Feb 13 03:32:59 2024
+Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/KBD.qpf
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/KBDINTF.qsf
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/Waveform.vwf
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/assignment_defaults.qdf
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/clock_5MHz.cmp
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/clock_5MHz.qip
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/clock_5MHz.sip
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/clock_5MHz.spd
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/clock_5MHz.v
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/clock_5MHz/clock_5MHz_0002.qip
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/clock_5MHz/clock_5MHz_0002.v
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/clock_5MHz_sim/clock_5MHz.vo
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/constraints/pin.tcl
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/HexSS.sv
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/KEYBOARD_DECODER.bdf
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/TOP_KBDINTF.bdf
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/TOP_RANDOM.bdf
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/bitrec.sv
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/byterec.sv
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/lpf.sv
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/make_brake_extended_decoder.sv
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/oneshot.sv
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/random.sv
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/simple_up_counter.sv
+C:/Quartus Lab Projects/hw_debug/KBD_12_02_2024_restored/rtl/singleKeyDecoder.sv
+	======= Total: 25 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
