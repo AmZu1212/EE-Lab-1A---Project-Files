@@ -9,6 +9,8 @@ This repository contains the SystemVerilog and Quartus files we developed during
 ## About the Project
 
 This project demonstrates the power of FPGA design through a creative application: a platformer game. It reflects a robust understanding of SystemVerilog, project management, and the development tools needed to bring a hardware-based game to life.
+View our detailed presentation on the design and development process.
+[View the Presentation (Google Slides)](https://docs.google.com/presentation/d/1X9HG2THVzQy2KovBZhX_v9wWhB01bWceWdzH6wjgYEc/edit?usp=sharing)
 
 *Feel free to explore the files!*
 
